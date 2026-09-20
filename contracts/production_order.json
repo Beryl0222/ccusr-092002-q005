@@ -1,0 +1,14 @@
+{
+  "service": "festival-food-chain",
+  "source_context": "http://ent.people.com.cn/n1/2026/0918/c1012-40800903.html",
+  "sample": {
+    "order_id": "TC-MC-260917-08",
+    "recipe_version": "叉烧五仁-v3",
+    "quantity": 1200,
+    "due_at": "2026-09-18T18:00:00+08:00",
+    "allergens": [
+      "坚果",
+      "蛋"
+    ]
+  }
+}
